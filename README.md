@@ -1,3 +1,3 @@
 # Animated-Christmas-Tree
 
-![alt text](tree.jpg)
+![alt text](tree.png)
